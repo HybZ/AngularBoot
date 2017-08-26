@@ -1,0 +1,8 @@
+.col.s12.m4.l4.crop-img {
+  max-height: 312px;
+  overflow: hidden;
+}
+
+.materialboxed.responsive-img {
+  padding: 5px;
+}
